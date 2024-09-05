@@ -25,7 +25,7 @@ const AdicionarTarefa: React.FC<AdicionarTarefaProps> = ({ onAdicionarTarefa }) 
   return (
     <View style={{ backgroundColor: '#402291', paddingVertical: 20, paddingHorizontal: 20, paddingTop: 50 }}>
       {/* Título da lista de tarefas */}
-      <Text fontSize="xl" color="white" mb={4}>Lista de Tarefas Hete Caetano</Text>
+      <Text fontSize="xl" color="white" mb={4}>Lista de Tarefas Erick Lopes</Text>
 
       {/* Contêiner para o campo de entrada de texto e o botão */}
       <View style={{ flexDirection: 'row', alignItems: 'center' }}>
